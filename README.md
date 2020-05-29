@@ -9,3 +9,5 @@ figure_sample.py is the final code snippet, producing a figure showing a single 
 figure1_v3.py is a more complex plotting problem, involving series of spectrum stored in separate folders.
 
 figure1_v1.py and figure1_v2.py are preliminary drafts, and need not be referred to.
+
+Source code: https://github.com/drwrenmontgomery/micron-wavenumber/
